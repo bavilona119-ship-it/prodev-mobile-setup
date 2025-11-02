@@ -11,3 +11,4 @@ Create your first mobile application using the **Expo Router template**, run it 
 
 ```bash
 cd prodev-mobile-setup
+> ✅ The `reset-project` script was executed to clean and reset the project environment.
